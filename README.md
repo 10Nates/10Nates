@@ -1,16 +1,57 @@
-### Hi there 👋
+```fix
+    _     __   __  __            __                     
+  /' \  /'__`\/\ \/\ \          /\ \__                  
+ /\_, \/\ \/\ \ \ `\\ \     __  \ \ ,_\    __    ____   
+ \/_/\ \ \ \ \ \ \ , ` \  /'__`\ \ \ \/  /'__`\ /',__\  
+    \ \ \ \ \_\ \ \ \`\ \/\ \L\.\_\ \ \_/\  __//\__, `\ 
+     \ \_\ \____/\ \_\ \_\ \__/.\_\\ \__\ \____\/\____/ 
+      \/_/\/___/  \/_/\/_/\/__/\/_/ \/__/\/____/\/___/  
+```
+# Hi! I'm Nathan.
 
-<!--
-**10Nates/10Nates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  ![computer](https://logmyip.com/src/unlog/computer.webp)
+  ## Interests
+  
+</div>
 
-Here are some ideas to get you started:
+### I'm a ...
+- gamer 
+- programmer
+- student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I like...
+- Linux
+- privacy
+- security
+- performance
+- sandbox games
+- Monero
+
+### I dislike...
+- JavaScript
+- Modern web development
+- The default Python compiler/interpreter
+- Bitcoin
+- game loop microtransactions
+
+<div align="center">
+  
+  ## 
+  ![floppy drive](https://logmyip.com/src/unlog/floppy.webp)
+  ## Knowledge
+  
+</div>
+
+### I know...
+- JavaScript
+- NodeJS
+- Go(lang)
+- HTML/CSS
+- Shell
+
+### I'm learning...
+- (see above)
+- Rust
+- Python 
