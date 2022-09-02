@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=10Nates&style=flat-square)
+![](https://gitwar.herokuapp.com/badge?style=flat-square&username=10Nates) 
+
 ```fix
     _     __   __  __            __                     
   /' \  /'__`\/\ \/\ \          /\ \__                  
@@ -22,7 +25,7 @@
 - student
 
 ### I like...
-- Linux
+- Linux 
 - privacy
 - security
 - performance
