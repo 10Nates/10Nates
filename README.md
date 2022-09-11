@@ -31,6 +31,7 @@
 - performance
 - sandbox games
 - Monero
+- WASM & WASI
 
 ### I dislike...
 - JavaScript
