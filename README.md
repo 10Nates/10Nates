@@ -1,5 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=10Nates&style=flat-square)
-![](https://gitwar.herokuapp.com/badge?style=flat-square&username=10Nates) 
+![](https://gitwar.herokuapp.com/badge?style=flat-square&username=10Nates)
+![](https://custom-icon-badges.demolab.com/github/followers/10nates?logo=person-add)
 
 ```fix
     _     __   __  __            __                     
