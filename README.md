@@ -1,6 +1,7 @@
-![](https://komarev.com/ghpvc/?username=10Nates&style=flat-square)
+![views](https://komarev.com/ghpvc/?username=10Nates&style=flat-square)
 ![](https://gitwar.herokuapp.com/badge?style=flat-square&username=10Nates)
-![](https://custom-icon-badges.demolab.com/github/followers/10nates?logo=person-add)
+![followers](https://custom-icon-badges.demolab.com/github/followers/10nates?logo=person-add&style=flat-square)
+[![forum](https://custom-icon-badges.demolab.com/badge/-Discussions-/?logo=megaphone&style=flat-square&color=grey)](https://github.com/10Nates/discussions)
 
 ```fix
     _     __   __  __            __                     
