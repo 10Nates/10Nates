@@ -66,7 +66,7 @@
 <div align="center">
   
   ## 
-  [![counter.gif](https://almostd.one/assets/counter.gif)](https://www.wonder-tonic.com/geocitiesizer/)
+  [![counter.gif](https://almostd.one/assets/counter.webp)](https://www.wonder-tonic.com/geocitiesizer/)
   ## Statistics
 
 </div>
