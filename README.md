@@ -16,7 +16,7 @@
 
 <div align="center">
   
-  ![computer](https://logmyip.com/src/unlog/computer.webp)
+  [![computer](https://logmyip.com/src/unlog/computer.webp)](https://www.wonder-tonic.com/geocitiesizer/)
   ## Interests
   
 </div>
@@ -45,7 +45,7 @@
 <div align="center">
   
   ## 
-  ![floppy drive](https://logmyip.com/src/unlog/floppy.webp)
+  [![floppy drive](https://logmyip.com/src/unlog/floppy.webp)](https://www.wonder-tonic.com/geocitiesizer/)
   ## Knowledge
   
 </div>
@@ -62,3 +62,13 @@
 - Rust
 - C#
 - Python 
+
+<div align="center">
+  
+  ## 
+  [![counter.gif](https://almostd.one/assets/counter.gif)](https://www.wonder-tonic.com/geocitiesizer/)
+  ## Statistics
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=10Nates)
+![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=10Nates&layout=compact)
+    
