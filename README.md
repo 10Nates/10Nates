@@ -69,6 +69,9 @@
   [![counter.gif](https://almostd.one/assets/counter.gif)](https://www.wonder-tonic.com/geocitiesizer/)
   ## Statistics
 
+</div>
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=10Nates)
+<br>
 ![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=10Nates&layout=compact)
     
