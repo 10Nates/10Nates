@@ -1,7 +1,7 @@
 ![views](https://komarev.com/ghpvc/?username=10Nates&style=flat-square)
 ![](https://gitwar.herokuapp.com/badge?style=flat-square&username=10Nates)
 ![followers](https://custom-icon-badges.demolab.com/github/followers/10nates?logo=person-add&style=flat-square)
-[![forum](https://custom-icon-badges.demolab.com/badge/-Discussions-/?logo=megaphone&style=flat-square&color=grey)](https://github.com/10Nates/discussions)
+[![forum](https://custom-icon-badges.demolab.com/badge/-Discussions-/?logo=megaphone&style=flat-square&color=grey)](https://github.com/10Nates/10Nates/discussions)
 
 ```fix
     _     __   __  __            __                     
@@ -54,13 +54,13 @@
 - JavaScript
 - NodeJS
 - Go(lang)
+- C#
 - HTML/CSS
 - Shell
 
 ### I'm learning...
 - (see above)
 - Rust
-- C#
 - Python 
 
 <div align="center">
