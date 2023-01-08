@@ -60,6 +60,7 @@
 
 ### I'm learning...
 - (see above)
+- C++
 - Rust
 - Python 
 
