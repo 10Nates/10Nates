@@ -1,5 +1,5 @@
 ![views](https://komarev.com/ghpvc/?username=10Nates&style=flat-square)
-![](https:/gitwar-10n.onrender.com/badge?style=flat-square&username=10Nates)
+![gitwar](https:/gitwar-10n.onrender.com/badge?style=flat-square&username=10Nates)
 ![followers](https://custom-icon-badges.demolab.com/github/followers/10nates?logo=person-add&style=flat-square)
 [![forum](https://custom-icon-badges.demolab.com/badge/-Discussions-/?logo=megaphone&style=flat-square&color=grey)](https://github.com/10Nates/10Nates/discussions)
 
