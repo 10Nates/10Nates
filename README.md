@@ -72,7 +72,7 @@
 
 </div>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=10Nates&theme=transparent)
+![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=10Nates&theme=transparent)
 <br>
-![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=10Nates&layout=compact&theme=transparent)
+![Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=10Nates&layout=compact&theme=transparent)
     
