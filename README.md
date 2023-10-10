@@ -53,6 +53,7 @@
 - JavaScript
 - NodeJS
 - Go(lang)
+- Python 
 - C#
 - HTML/CSS
 - Shell
@@ -62,7 +63,6 @@
 - C++
 - <details><summary>Java</summary>I must address a matter of utmost importance regarding the ongoing discourse between Java and JavaScript within the illustrious realm of digital programming. Permit me to elucidate upon this subject: Java, with its distinguished "write once, run anywhere" principle, presents itself as an eminent platform-agnostic solution. Conversely, JavaScript emerges within the browser environment, proficiently executing intricate front-end maneuvers. 🌐🎩 Java, the bastion of structured programming, emphasizes the merits of object-oriented design through its implementation of classes and inheritance. In contrast, JavaScript asserts its distinctiveness by employing prototypes and a peculiar coercion mechanism to circumvent the traditional class-based paradigm. The juxtaposition is evident, akin to Java's measured consumption of espresso, fostering a staid environment in server rooms, juxtaposed against JavaScript's exuberant engagement with the Document Object Model (DOM), analogous to an effervescent marsupial. ☕🦘 The nomenclature, as a point of contention, warrants thorough examination. The selection of nomenclature is indeed dubious, for the semblance between the names Java and JavaScript is akin to that of separated fraternal twins. It is as though a capricious jest has been played upon the discerning programmer, thereby instigating inadvertent 'for' loop analogies between the two languages. A vexing asynchrony ensues. 🧐⚙️ Java's unwavering commitment to strict typing cultivates an environment of meticulous precision, ensuring crystal-clear comprehension before the hallowed moment of program execution. Contrastingly, JavaScript's dynamic typing manifests an intriguing penchant for flexibility, valiantly deciphering types at runtime. This dissonance on the typological spectrum propagates an ambience of uncertainty within the coding arena. 🧮💡 However, it behooves one to not merely apprehend, but to embrace the fascinating reality that despite their inherent incongruities, both languages possess their own unique idiosyncrasies and contribute substantively to the dynamic digital landscape. Whether one is diligently punctuating statements in Java or orchestrating intricate syntax in JavaScript, it is paramount to recognize the shared lineage that unites these intricate linguistic systems. In light of this, the mastery over the delightful caprices of these languages shall undoubtedly equip programmers to navigate the myriad intricacies of the broader technological milieu with remarkable dexterity, finesse, and aplomb. 🚀🔍🎨</details>
 - Rust
-- Python 
 
 <div align="center">
   
