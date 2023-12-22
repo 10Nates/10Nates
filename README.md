@@ -67,7 +67,7 @@
 <div align="center">
   
   ## 
-  [![counter.gif](https://almostd.one/assets/counter.webp)](https://www.wonder-tonic.com/geocitiesizer/)
+  [![counter.gif](https://www.wonder-tonic.com/geocitiesizer/images/counter.gif)](https://www.wonder-tonic.com/geocitiesizer/)
   ## Statistics
 
 </div>
@@ -75,4 +75,8 @@
 ![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=10Nates&theme=transparent)
 <br>
 ![Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=10Nates&layout=compact&theme=transparent)
-    
+
+## 
+
+[![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U557XAG)
+<a href="https://www.buymeacoffee.com/natehedge" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="130"></a>
